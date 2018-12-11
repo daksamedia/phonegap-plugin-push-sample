@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "171050319695",
-    "firebase_url": "https://phonegap-plugin-push-sam-e011d.firebaseio.com",
-    "project_id": "phonegap-plugin-push-sam-e011d",
-    "storage_bucket": "phonegap-plugin-push-sam-e011d.appspot.com"
+    "project_number": "654919099088",
+    "firebase_url": "https://gelaro-6b52c.firebaseio.com",
+    "project_id": "gelaro-6b52c",
+    "storage_bucket": "gelaro-6b52c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:171050319695:android:b71f283f00051af4",
+        "mobilesdk_app_id": "1:654919099088:android:e3387c55577a41fa",
         "android_client_info": {
-          "package_name": "es.phonegap.push.sample"
+          "package_name": "com.gelaro.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "171050319695-h490j8i2ibh8ldnrjqnfibfacrj8bp4n.apps.googleusercontent.com",
+          "client_id": "654919099088-tq4gs77t9a0apt7ls549kmcs41utps1r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwleqlZJkCiNb4C1FpKforrtx6IzlANKw"
+          "current_key": "AIzaSyD_SnRWlM66lq9Dx_FKliIcWZiF4HUwLPI"
         }
       ],
       "services": {
